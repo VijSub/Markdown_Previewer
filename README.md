@@ -21,7 +21,7 @@ https://vijay-markdown-previewer.netlify.app/
 - <b>Redux</b>: A predictable state container for JavaScript apps, used to manage the state of the Markdown Previewer.
 - <b>jQuery</b>: A fast, small, and feature-rich JavaScript library, used to simplify the HTML document traversal and manipulation, event handling, and animation.
 
-<h2>Environments Used </h2>
+<h2>Development Environment</h2>
 
 - <b>Windows 11</b>
 - <b>Visual Studio Code</b>
